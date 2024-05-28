@@ -1,0 +1,16 @@
+{
+	"BuildId": "14830424",
+	"Modules": 
+	{
+		"BuildSettings": "libUnrealPak-BuildSettings.so",
+		"Core": "libUnrealPak-Core.so",
+		"DerivedDataCache": "libUnrealPak-DerivedDataCache.so",
+		"Json": "libUnrealPak-Json.so",
+		"PakFile": "libUnrealPak-PakFile.so",
+		"PakFileUtilities": "libUnrealPak-PakFileUtilities.so",
+		"Projects": "libUnrealPak-Projects.so",
+		"RSA": "libUnrealPak-RSA.so",
+		"SSL": "libUnrealPak-SSL.so",
+		"TraceLog": "libUnrealPak-TraceLog.so"
+	}
+}
